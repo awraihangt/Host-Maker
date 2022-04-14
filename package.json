@@ -1,0 +1,25 @@
+{
+  "name": "host-maker",
+  "version": "1.0.0",
+  "description": "this app create host easily",
+  "main": "maker.js",
+  "scripts": {
+    "test": "node maker.js",
+    "start": "node maker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awraihangt/Host-Maker.git"
+  },
+  "keywords": [
+    "host",
+    "maker",
+    "host maker"
+  ],
+  "author": "Wild XYZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awraihangt/Host-Maker/issues"
+  },
+  "homepage": "https://github.com/awraihangt/Host-Maker#readme"
+}
